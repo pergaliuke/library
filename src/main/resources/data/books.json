@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Hero (Ying xiong)",
+    "author": "Annadiana Muccino",
+    "Category": "Fantasy",
+    "language": "Belarusian",
+    "publication_date": "8/2/2021",
+    "isbn": "704862223-7",
+    "guid": "95538941-0558-4ded-92c2-f2d2a6ad17fc"
+  },
+  {
+    "name": "Little Nemo: Adventures in Slumberland",
+    "author": "Mathe Dickins",
+    "Category": "Fantasy",
+    "language": "Chinese",
+    "publication_date": "4/21/2021",
+    "isbn": "905235291-7",
+    "guid": "e7ffafb2-364d-4b7d-be96-2fc64b19d598"
+  },
+  {
+    "name": "Who Am I (Kein System Ist Sicher)",
+    "author": "Bevon Rawls",
+    "Category": "Fantasy",
+    "language": "Belarusian",
+    "publication_date": "5/16/2021",
+    "isbn": "075740450-2",
+    "guid": "90c6e808-5817-4cb5-9c4d-bb1b6a4c1258"
+  },
+  {
+    "name": "One Man's Hero",
+    "author": "Sutherland Driffe",
+    "Category": "Romance",
+    "language": "Kannada",
+    "publication_date": "4/27/2021",
+    "isbn": "282619207-8",
+    "guid": "f2a6e300-682b-46c5-a82d-c1fbcf9142f6"
+  },
+  {
+    "name": "Mother Carey's Chickens",
+    "author": "Gerik Kliner",
+    "Category": "Recipes",
+    "language": "Bulgarian",
+    "publication_date": "3/18/2021",
+    "isbn": "204872011-0",
+    "guid": "f3c6a4bd-5274-43af-a749-443d853e0b40"
+  },
+  {
+    "name": "Talent for the Game",
+    "author": "Gill Szimon",
+    "Category": "Classics",
+    "language": "Burmese",
+    "publication_date": "12/9/2020",
+    "isbn": "919827820-7",
+    "guid": "d398a24c-4095-452b-acde-dec67c2455c3"
+  },
+  {
+    "name": "Perfume",
+    "author": "Launce Geane",
+    "Category": "Classics",
+    "language": "Haitian Creole",
+    "publication_date": "2/20/2021",
+    "isbn": "928585381-1",
+    "guid": "f8fcc3b9-e2ea-4c7a-be1e-541558bc3775"
+  },
+  {
+    "name": "I'm Gonna Explode (a.k.a. I'm Going to Explode) (Voy a explotar)",
+    "author": "Aubrie Bedle",
+    "Category": "Classics",
+    "language": "New Zealand Sign Language",
+    "publication_date": "3/17/2021",
+    "isbn": "217133937-3",
+    "guid": "60c068a2-6b06-486d-b18d-82cc8bd609d8"
+  },
+  {
+    "name": "The Well",
+    "author": "Chic Walsham",
+    "Category": "Lamprotornis sp.",
+    "language": "Indonesian",
+    "publication_date": "6/9/2021",
+    "isbn": "773573870-6",
+    "guid": "d40d2957-1bd3-4799-80a0-2ea8c2b97f47"
+  },
+  {
+    "name": "Last King of Scotland, The",
+    "author": "Lenee Reddel",
+    "Category": "Historical Fiction",
+    "language": "Tswana",
+    "publication_date": "1/17/2021",
+    "isbn": "133820038-0",
+    "guid": "6c905535-6adc-459a-819c-aecb48086ad0"
+  },
+  {
+    "name": "Simon",
+    "author": "Morissa Pauly",
+    "Category": "Crotalus adamanteus",
+    "language": "Bosnian",
+    "publication_date": "7/25/2021",
+    "isbn": "694908310-6",
+    "guid": "5bb044ed-fed0-40f1-a804-f00fa5dc0955"
+  },
+  {
+    "name": "Topaze",
+    "author": "Avrom Olney",
+    "Category": "Detective and Mystery",
+    "language": "Somali",
+    "publication_date": "2/10/2021",
+    "isbn": "992198195-1",
+    "guid": "cde40736-9563-49d3-bcdd-0991ffc844fb"
+  },
+  {
+    "name": "Thoroughly Modern Millie",
+    "author": "Ollie Ryder",
+    "Category": "Classics",
+    "language": "Italian",
+    "publication_date": "5/23/2021",
+    "isbn": "200331023-1",
+    "guid": "7bae80e6-7e00-4292-9e04-a72fe7880419"
+  },
+  {
+    "name": "Send a Bullet (Manda Bala)",
+    "author": "Tommi Shulem",
+    "Category": "Classics",
+    "language": "Irish Gaelic",
+    "publication_date": "7/15/2021",
+    "isbn": "187056959-8",
+    "guid": "05103bb1-be88-4ada-a2d3-99d1a0d5c56c"
+  },
+  {
+    "name": "Machete Maidens Unleashed!",
+    "author": "Antonio Edon",
+    "Category": "Classics",
+    "language": "Irish Gaelic",
+    "publication_date": "1/30/2021",
+    "isbn": "588691034-4",
+    "guid": "6ee4f9d6-ab3e-43a6-b586-5a90e5148907"
+  },
+  {
+    "name": "Taxi for Tobruk",
+    "author": "Zsazsa Daldry",
+    "Category": "Classics",
+    "language": "Swahili",
+    "publication_date": "12/5/2020",
+    "isbn": "899656604-7",
+    "guid": "261545d1-8cab-45bf-a61f-f2363712545d"
+  },
+  {
+    "name": "Sound of the Mountain (Thunder of the Mountain, The) (Yama no oto)",
+    "author": "Clement Thornbarrow",
+    "Category": "Classics",
+    "language": "Guaraní",
+    "publication_date": "6/16/2021",
+    "isbn": "820504640-9",
+    "guid": "873e516d-45a0-43af-9c76-ca8591f6a04f"
+  },
+  {
+    "name": "Young Ones",
+    "author": "Lucian Levesque",
+    "Category": "Classics",
+    "language": "Kannada",
+    "publication_date": "1/10/2021",
+    "isbn": "978844048-7",
+    "guid": "e0e0ca17-2bfe-459e-8cce-57bc134dd60c"
+  },
+  {
+    "name": "Kawa",
+    "author": "Austen Burehill",
+    "Category": "Classics",
+    "language": "Indonesian",
+    "publication_date": "1/25/2021",
+    "isbn": "330848929-5",
+    "guid": "29a9a1f8-3ba3-424f-8b98-6953653c58b4"
+  },
+  {
+    "name": "Gentle Breeze in the Village, A (Tennen kokekkô) ",
+    "author": "Kinny Allsobrook",
+    "Category": "Horror",
+    "language": "Danish",
+    "publication_date": "6/11/2021",
+    "isbn": "620528533-9",
+    "guid": "9436267d-8c50-47ea-ba5f-9f3aea4988cd"
+  }
+]
