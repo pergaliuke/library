@@ -4,7 +4,7 @@
     "author": "Annadiana Muccino",
     "category": "Fantasy",
     "language": "Belarusian",
-    "publicationDate": "8/2/2021",
+    "publicationDate": "2021-02-08",
     "isbn": "704862223-7",
     "guid": "95538941-0558-4ded-92c2-f2d2a6ad17fc"
   },
@@ -13,7 +13,7 @@
     "author": "Mathe Dickins",
     "category": "Fantasy",
     "language": "Chinese",
-    "publicationDate": "4/21/2021",
+    "publicationDate": "2021-04-21",
     "isbn": "905235291-7",
     "guid": "e7ffafb2-364d-4b7d-be96-2fc64b19d598"
   },
@@ -22,7 +22,7 @@
     "author": "Bevon Rawls",
     "category": "Fantasy",
     "language": "Belarusian",
-    "publicationDate": "5/16/2021",
+    "publicationDate": "2021-05-16",
     "isbn": "075740450-2",
     "guid": "90c6e808-5817-4cb5-9c4d-bb1b6a4c1258"
   },
@@ -31,7 +31,7 @@
     "author": "Sutherland Driffe",
     "category": "Romance",
     "language": "Kannada",
-    "publicationDate": "4/27/2021",
+    "publicationDate": "2021-04-27",
     "isbn": "282619207-8",
     "guid": "f2a6e300-682b-46c5-a82d-c1fbcf9142f6"
   },
@@ -40,7 +40,7 @@
     "author": "Gerik Kliner",
     "category": "Recipes",
     "language": "Bulgarian",
-    "publicationDate": "3/18/2021",
+    "publicationDate": "2021-03-18",
     "isbn": "204872011-0",
     "guid": "f3c6a4bd-5274-43af-a749-443d853e0b40"
   },
@@ -49,7 +49,7 @@
     "author": "Gill Szimon",
     "category": "Classics",
     "language": "Burmese",
-    "publicationDate": "12/9/2020",
+    "publicationDate": "2020-12-09",
     "isbn": "919827820-7",
     "guid": "d398a24c-4095-452b-acde-dec67c2455c3"
   },
@@ -58,7 +58,7 @@
     "author": "Launce Geane",
     "category": "Classics",
     "language": "Haitian Creole",
-    "publicationDate": "2/20/2021",
+    "publicationDate": "2021-02-20",
     "isbn": "928585381-1",
     "guid": "f8fcc3b9-e2ea-4c7a-be1e-541558bc3775"
   },
@@ -67,7 +67,7 @@
     "author": "Aubrie Bedle",
     "category": "Classics",
     "language": "New Zealand Sign Language",
-    "publicationDate": "3/17/2021",
+    "publicationDate": "2021-03-17",
     "isbn": "217133937-3",
     "guid": "60c068a2-6b06-486d-b18d-82cc8bd609d8"
   },
@@ -76,7 +76,7 @@
     "author": "Chic Walsham",
     "category": "Lamprotornis sp.",
     "language": "Indonesian",
-    "publicationDate": "6/9/2021",
+    "publicationDate": "2021-09-21",
     "isbn": "773573870-6",
     "guid": "d40d2957-1bd3-4799-80a0-2ea8c2b97f47"
   },
@@ -85,7 +85,7 @@
     "author": "Lenee Reddel",
     "category": "Historical Fiction",
     "language": "Tswana",
-    "publicationDate": "1/17/2021",
+    "publicationDate": "2021-01-17",
     "isbn": "133820038-0",
     "guid": "6c905535-6adc-459a-819c-aecb48086ad0"
   },
@@ -94,7 +94,7 @@
     "author": "Morissa Pauly",
     "category": "Crotalus adamanteus",
     "language": "Bosnian",
-    "publicationDate": "7/25/2021",
+    "publicationDate": "2021-07-25",
     "isbn": "694908310-6",
     "guid": "5bb044ed-fed0-40f1-a804-f00fa5dc0955"
   },
@@ -103,7 +103,7 @@
     "author": "Avrom Olney",
     "category": "Detective and Mystery",
     "language": "Somali",
-    "publicationDate": "2/10/2021",
+    "publicationDate": "2021-02-10",
     "isbn": "992198195-1",
     "guid": "cde40736-9563-49d3-bcdd-0991ffc844fb"
   },
@@ -112,7 +112,7 @@
     "author": "Ollie Ryder",
     "category": "Classics",
     "language": "Italian",
-    "publicationDate": "5/23/2021",
+    "publicationDate": "2021-05-23",
     "isbn": "200331023-1",
     "guid": "7bae80e6-7e00-4292-9e04-a72fe7880419"
   },
@@ -121,7 +121,7 @@
     "author": "Tommi Shulem",
     "category": "Classics",
     "language": "Irish Gaelic",
-    "publicationDate": "7/15/2021",
+    "publicationDate": "2021-07-15",
     "isbn": "187056959-8",
     "guid": "05103bb1-be88-4ada-a2d3-99d1a0d5c56c"
   },
@@ -130,53 +130,8 @@
     "author": "Antonio Edon",
     "category": "Classics",
     "language": "Irish Gaelic",
-    "publicationDate": "1/30/2021",
+    "publicationDate": "2021-01-30",
     "isbn": "588691034-4",
     "guid": "6ee4f9d6-ab3e-43a6-b586-5a90e5148907"
-  },
-  {
-    "name": "Taxi for Tobruk",
-    "author": "Zsazsa Daldry",
-    "category": "Classics",
-    "language": "Swahili",
-    "publicationDate": "12/5/2020",
-    "isbn": "899656604-7",
-    "guid": "261545d1-8cab-45bf-a61f-f2363712545d"
-  },
-  {
-    "name": "Sound of the Mountain (Thunder of the Mountain, The) (Yama no oto)",
-    "author": "Clement Thornbarrow",
-    "category": "Classics",
-    "language": "Guaraní",
-    "publicationDate": "6/16/2021",
-    "isbn": "820504640-9",
-    "guid": "873e516d-45a0-43af-9c76-ca8591f6a04f"
-  },
-  {
-    "name": "Young Ones",
-    "author": "Lucian Levesque",
-    "category": "Classics",
-    "language": "Kannada",
-    "publicationDate": "1/10/2021",
-    "isbn": "978844048-7",
-    "guid": "e0e0ca17-2bfe-459e-8cce-57bc134dd60c"
-  },
-  {
-    "name": "Kawa",
-    "author": "Austen Burehill",
-    "category": "Classics",
-    "language": "Indonesian",
-    "publicationDate": "1/25/2021",
-    "isbn": "330848929-5",
-    "guid": "29a9a1f8-3ba3-424f-8b98-6953653c58b4"
-  },
-  {
-    "name": "Gentle Breeze in the Village, A (Tennen kokekkô) ",
-    "author": "Kinny Allsobrook",
-    "category": "Horror",
-    "language": "Danish",
-    "publicationDate": "6/11/2021",
-    "isbn": "620528533-9",
-    "guid": "9436267d-8c50-47ea-ba5f-9f3aea4988cd"
   }
 ]
