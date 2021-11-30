@@ -34,10 +34,10 @@ public class TakenBooksRepository {
     public void addTakenEvent(TakeEvent takeEvent) {
         Set<TakeEvent> takeEvents = getTakeEvents();
         takeEvents.add(takeEvent);
-        writeTakeEvents(takeEvents);
+        saveTakeEvents(takeEvents);
     }
 
-    private void writeTakeEvents(Collection<TakeEvent> takeEvents) {
+    private void saveTakeEvents(Collection<TakeEvent> takeEvents) {
         try {
             objectMapper.writeValue(FILE, takeEvents);
         } catch (IOException ex) {
@@ -58,6 +58,8 @@ public class TakenBooksRepository {
     }
 
     public void deleteByBookGuid(String guid) {
-        getTakeEvents().removeIf(event -> event.getBookGuid().equals(guid));
+        Set<TakeEvent> takeEvents = getTakeEvents();
+        takeEvents.removeIf(event -> event.getBookGuid().equals(guid));
+        saveTakeEvents(takeEvents);
     }
 }

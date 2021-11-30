@@ -73,6 +73,10 @@ public class BookRepository {
     }
 
     public boolean deleteByGuid(String guid) {
-       return getBooks().removeIf(book -> book.getGuid().equals(guid));
+        Set<Book> books = getBooks();
+        boolean result = books.removeIf(book -> book.getGuid().equals(guid));
+        writeBooks(books);
+
+        return result;
     }
 }
