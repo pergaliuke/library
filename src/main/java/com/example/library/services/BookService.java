@@ -5,7 +5,6 @@ import com.example.library.models.Book;
 import com.example.library.models.BookFilter;
 import com.example.library.repositories.BookRepository;
 import com.example.library.repositories.TakenBooksRepository;
-import java.util.Collection;
 import java.util.Set;
 import java.util.UUID;
 import java.util.stream.Collectors;
@@ -21,10 +20,6 @@ public class BookService {
       TakenBooksRepository takenBooksRepository) {
         this.bookRepository = bookRepository;
         this.takenBooksRepository = takenBooksRepository;
-    }
-
-    public Collection<Book> findAll() {
-        return bookRepository.findAll();
     }
 
     public Book addBook(Book book) {

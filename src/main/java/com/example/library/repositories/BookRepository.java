@@ -24,10 +24,6 @@ public class BookRepository {
         this.objectMapper = objectMapper;
     }
 
-    public Collection<Book> findAll() {
-        return getBooks();
-    }
-
     private Set<Book> getBooks() {
         try {
             return objectMapper.readValue(FILE, new TypeReference<>() {

@@ -3,7 +3,7 @@ package com.example.library.controllers;
 import com.example.library.models.Book;
 import com.example.library.models.BookFilter;
 import com.example.library.services.BookService;
-import java.util.Collection;
+import java.util.Set;
 import javax.validation.Valid;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -24,11 +24,7 @@ public class BookController {
     }
 
     @GetMapping
-    public Collection<Book> getBooks(BookFilter bookFilter){
-        if (bookFilter == null) {
-            return bookService.findAll();
-        }
-
+    public Set<Book> getBooks(BookFilter bookFilter){
         return bookService.findByFilter(bookFilter);
     }
 

@@ -4,9 +4,15 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 import java.time.LocalDate;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.Pattern;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
 public class Book {
 
     @NotEmpty
